@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.item-rounded {
+    border-radius: 10px !important;
+}
+:fullscreen {
+    width: 100%;
+    height: 100%;
+}
